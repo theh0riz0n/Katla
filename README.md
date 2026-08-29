@@ -9,7 +9,8 @@ this project was entirely vibe coded by Gemini 3.1 Pro.
 - [x] receive messages
 - [ ] send messages (not tested)
 - [x] push notifications
-- [x] details menus
+- [x] detailed menus
+- [ ] attendance justification 
 
 ## features
 
