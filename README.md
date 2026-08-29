@@ -17,7 +17,7 @@ this project was entirely vibe coded by Gemini 3.1 Pro.
 - 📱 liquid ass
 - ✨ animations and interactive elements
 - 📊 display of schedule, grades, attendance and homework
--
+- 🚀 easy login (4 methods to login)
 
 ## technology
 
