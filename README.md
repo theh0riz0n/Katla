@@ -1,5 +1,6 @@
 # katla - custom edushit client for iOS
 this project was entirely vibe coded by Gemini 3.1 Pro.
+i don't plan releasing a ready app (.ipa), this is for compiling it yourself.
 
 ## todo
 
